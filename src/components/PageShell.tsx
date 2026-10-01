@@ -43,6 +43,7 @@ export function PageShell({
           <p className="mt-1 font-display text-sm text-ink">
             Psicóloga Luana Sakovicz
           </p>
+          <p className="mt-0.5 text-xs text-muted">CRP 08/48498</p>
         </footer>
       </div>
     </div>
