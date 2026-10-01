@@ -37,13 +37,15 @@ export function PageShell({
           className="mt-8 border-t border-line pt-5 text-center"
           aria-label="Identificação profissional"
         >
-          <p className="text-[10px] font-semibold tracking-[0.18em] text-muted uppercase">
-            Ferramenta de uso exclusivo
+          <p className="mx-auto max-w-md text-xs leading-relaxed text-muted">
+            Este material não possui fins diagnósticos. Destina-se exclusivamente
+            à reflexão sobre saúde mental.
           </p>
-          <p className="mt-1 font-display text-sm text-ink">
-            Psicóloga Luana Sakovicz
+          <p className="mt-2 text-xs font-medium text-ink">
+            Luana Sakovicz <span aria-hidden="true">•</span> Psicóloga{" "}
+            <span aria-hidden="true">•</span> CRP 08/48498{" "}
+            <span aria-hidden="true">•</span> 2026
           </p>
-          <p className="mt-0.5 text-xs text-muted">CRP 08/48498</p>
         </footer>
       </div>
     </div>
