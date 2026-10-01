@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     template: "%s · Semáforo da Saúde Mental",
   },
   description:
-    "Questionário de reflexão sobre sinais de sobrecarga emocional nas últimas duas semanas. Ferramenta de prevenção — não substitui avaliação profissional.",
+    "Ferramenta de uso exclusivo da Psicóloga Luana Sakovicz para reflexão sobre sinais de sobrecarga emocional nas últimas duas semanas. Não substitui avaliação profissional.",
   applicationName: "Semáforo da Saúde Mental",
 };
 

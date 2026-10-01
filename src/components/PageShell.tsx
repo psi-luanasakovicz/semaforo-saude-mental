@@ -33,6 +33,17 @@ export function PageShell({
           </header>
         ) : null}
         {children}
+        <footer
+          className="mt-8 border-t border-line pt-5 text-center"
+          aria-label="Identificação profissional"
+        >
+          <p className="text-[10px] font-semibold tracking-[0.18em] text-muted uppercase">
+            Ferramenta de uso exclusivo
+          </p>
+          <p className="mt-1 font-display text-sm text-ink">
+            Psicóloga Luana Sakovicz
+          </p>
+        </footer>
       </div>
     </div>
   );
